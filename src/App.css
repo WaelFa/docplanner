@@ -1,0 +1,35 @@
+body {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+/* nav bar style  */
+.logo-docplanner {
+    width: 268px;
+    height: 33px;
+}
+.Navigation{
+    height: 70px;
+}
+/* nav bar style */
+
+/* paragraphs style */
+.health-experience h1 {
+    color: #00B39B;
+    font-size: 2.125rem;
+}
+
+.paragraphs {
+    
+    margin: auto;
+}
+.paragraphs p {
+    text-align: left;
+    color: #747474;
+    line-height: 1.75;
+    font-weight: 400;
+    font-size: 16px;
+}
+.health-experience * {
+    margin-top: 30px;
+}
+/* paragraphs style */
+
