@@ -33,3 +33,56 @@ body {
 }
 /* paragraphs style */
 
+/* cards style */
+.cards {
+    margin-top: 40px;
+}
+
+.card1 {
+    margin: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 390px;
+}
+
+.for-patients {
+    background-color: #00CCB1;
+}
+
+.for-doctors {
+    background-color: #3D83DF;
+}
+
+.card1 p {
+    font-size: .875em;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, .7);
+}
+
+.card1 h5 {
+    font-weight: 300;
+    letter-spacing: .3px;
+    font-size: 1.625em;
+    color: #fff;
+    margin-top: .3em;
+}
+
+.card1 select {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    width: 175px;
+    height: 40px;
+    ;
+}
+
+.card1 div {
+    height: 305px !important;
+    display: flex;
+}
+
+.cards img {
+    height: 248.750px;
+    width: 397.5px;
+}
+/* cards style */
